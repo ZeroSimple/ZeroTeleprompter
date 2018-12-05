@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\ZeroTeleprompter\ZeroTeleprompter\obj\Debug\ZeroTeleprompter.Form1.resources
+C:\Users\Administrator\source\repos\ZeroTeleprompter\ZeroTeleprompter\obj\Debug\ZeroTeleprompter.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ZeroTeleprompter\ZeroTeleprompter\obj\Debug\ZeroTeleprompter.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ZeroTeleprompter\ZeroTeleprompter\obj\Debug\ZeroTeleprompter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ZeroTeleprompter\ZeroTeleprompter\bin\Debug\ZeroTeleprompter.exe.config
+C:\Users\Administrator\source\repos\ZeroTeleprompter\ZeroTeleprompter\bin\Debug\ZeroTeleprompter.exe
+C:\Users\Administrator\source\repos\ZeroTeleprompter\ZeroTeleprompter\bin\Debug\ZeroTeleprompter.pdb
+C:\Users\Administrator\source\repos\ZeroTeleprompter\ZeroTeleprompter\obj\Debug\ZeroTeleprompter.exe
+C:\Users\Administrator\source\repos\ZeroTeleprompter\ZeroTeleprompter\obj\Debug\ZeroTeleprompter.pdb
