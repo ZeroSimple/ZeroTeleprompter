@@ -1,2 +1,2 @@
 # ZeroTeleprompter
-A simple teleprompter (beta project ).
+A simple teleprompter (beta project).
